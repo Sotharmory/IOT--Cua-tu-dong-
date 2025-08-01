@@ -1,0 +1,20 @@
+{
+  "name": "iotson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "p",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mqtt": "^5.13.1",
+    "socket.io": "^4.8.1",
+    "sqlite3": "^5.1.7"
+  }
+}
